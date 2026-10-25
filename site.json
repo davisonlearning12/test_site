@@ -1,0 +1,39 @@
+{
+  "title": "My site",
+  "accent": "#1f4fd8",
+  "pages": [
+    {
+      "name": "Home",
+      "blocks": [
+        {
+          "type": "hero",
+          "title": "Welcome",
+          "sub": "This is my test site."
+        },
+        {
+          "type": "text",
+          "html": "I created this using Sitewright. The link is bellow..."
+        },
+        {
+          "type": "button",
+          "label": "https://davisonlearning12.github.io/Sitewright/index.html",
+          "url": "https://davisonlearning12.github.io/Sitewright/index.html"
+        }
+      ]
+    },
+    {
+      "name": "instructions",
+      "blocks": [
+        {
+          "type": "hero",
+          "title": "Instructions",
+          "sub": "A quick guide."
+        },
+        {
+          "type": "text",
+          "html": "<br><ol dir=\"auto\" style=\"margin-top: 0px; padding-left: 2em; color: rgb(31, 35, 40); font-family: &quot;Mona Sans VF&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;Noto Sans Backtick Fix&quot;, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;; font-size: 16px; background-color: rgb(255, 255, 255); margin-bottom: 0px !important;\"><li><p dir=\"auto\" style=\"margin-top: 16px; margin-bottom: 16px;\">Create the repo first On github.com, click New repository, name it (for example my-site), and tick Add a README so the repo has a main branch. Fine-grained tokens can only be limited to repos that already exist.</p></li><li style=\"margin-top: 0.25em;\"><p dir=\"auto\" style=\"margin-top: 16px; margin-bottom: 16px;\">Open token settings Click your profile photo, then Settings. At the bottom of the left sidebar choose Developer settings, then Personal access tokens, then Fine-grained tokens.</p></li><li style=\"margin-top: 0.25em;\"><p dir=\"auto\" style=\"margin-top: 16px; margin-bottom: 16px;\">Generate new token Click Generate new token. Give it a name like Sitewright, and set an expiry (30 to 90 days is a sensible choice).</p></li><li style=\"margin-top: 0.25em;\"><p dir=\"auto\" style=\"margin-top: 16px; margin-bottom: 16px;\">Limit it to your site repo Under Repository access, choose Only select repositories and pick the repo from step 1. This keeps the token from touching anything else on your account.</p></li><li style=\"margin-top: 0.25em;\"><p dir=\"auto\" style=\"margin-top: 16px; margin-bottom: 16px;\">Set the permissions Under Permissions, open Repository permissions and set Contents to Read and write, and Pages to Read and write. Metadata (read) is added automatically. You don't need Administration unless you want the tool to create repos.</p></li><li style=\"margin-top: 0.25em;\"><p dir=\"auto\" style=\"margin-top: 16px; margin-bottom: 16px;\">Generate and copy it Click Generate token, then copy the token that starts with github_pat_. GitHub only shows it once. Paste it into Sitewright's GitHub settings along with yourname/my-site.</p></li></ol><br>"
+        }
+      ]
+    }
+  ]
+}
