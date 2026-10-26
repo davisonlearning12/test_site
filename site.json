@@ -96,7 +96,12 @@
         {
           "type": "columns",
           "cols": [
-            [],
+            [
+              {
+                "type": "text",
+                "html": "This page has heading image and text."
+              }
+            ],
             [
               {
                 "type": "heading",
@@ -111,7 +116,8 @@
               {
                 "type": "image",
                 "src": "assets/1793000970993-Jammy.png",
-                "alt": "Jammy"
+                "alt": "Jammy",
+                "w": 25
               }
             ]
           ]
