@@ -116,6 +116,11 @@
               }
             ]
           ]
+        },
+        {
+          "type": "hero",
+          "title": "I added a heading and was able to position it where I wanted",
+          "sub": "I positioned it on the line underneath the three columns."
         }
       ]
     }
