@@ -61,6 +61,34 @@
           "code": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/QDia3e12czc?si=ard2iPdk1tyTvKa6\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; &autoplay=1\"frameborder=\"0\"; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
         }
       ]
+    },
+    {
+      "name": "Two Columns",
+      "blocks": [
+        {
+          "type": "hero",
+          "title": "This is a two column page",
+          "sub": "How does it look?"
+        },
+        {
+          "type": "columns",
+          "cols": [
+            [
+              {
+                "type": "text",
+                "html": "I added some text over here and then I will add an image on the other side."
+              }
+            ],
+            [
+              {
+                "type": "image",
+                "src": "assets/1793000641311-garibaldi.png",
+                "alt": "garibaldi"
+              }
+            ]
+          ]
+        }
+      ]
     }
   ]
 }
