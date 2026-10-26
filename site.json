@@ -89,6 +89,35 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Three Columns",
+      "blocks": [
+        {
+          "type": "columns",
+          "cols": [
+            [
+              {
+                "type": "heading",
+                "text": "This is a three column page "
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "html": "It has a heading, text and an image."
+              }
+            ],
+            [
+              {
+                "type": "image",
+                "src": "assets/1793000970993-Jammy.png",
+                "alt": "Jammy"
+              }
+            ]
+          ]
+        }
+      ]
     }
   ]
 }
