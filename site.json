@@ -96,16 +96,15 @@
         {
           "type": "columns",
           "cols": [
+            [],
             [
               {
                 "type": "heading",
                 "text": "This is a three column page "
-              }
-            ],
-            [
+              },
               {
                 "type": "text",
-                "html": "It has a heading, text and an image."
+                "html": "It has a heading, text and an image.<div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div>hshsh</div>"
               }
             ],
             [
