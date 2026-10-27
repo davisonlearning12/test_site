@@ -190,6 +190,47 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Different sized columns",
+      "blocks": [
+        {
+          "type": "columns",
+          "cols": [
+            [
+              {
+                "type": "heading",
+                "text": "Change the size of the columns."
+              },
+              {
+                "type": "text",
+                "html": "You may want to have different sizing."
+              }
+            ],
+            [
+              {
+                "type": "image",
+                "src": "assets/1793087286407-digestive.png",
+                "alt": "digestive",
+                "w": 100
+              }
+            ],
+            [
+              {
+                "type": "image",
+                "src": "assets/1793087404835-rich_tea_1.png",
+                "alt": "rich tea 1",
+                "w": 80
+              },
+              {
+                "type": "text",
+                "html": "Here is a Rich Tea biscuit."
+              }
+            ]
+          ],
+          "split": "1:2:1"
+        }
+      ]
     }
   ],
   "theme": "classic"
