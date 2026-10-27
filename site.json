@@ -88,6 +88,38 @@
       ]
     },
     {
+      "name": "Gallery",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "A gallery of images"
+        },
+        {
+          "type": "gallery",
+          "per": 4,
+          "ratio": "4/3",
+          "items": [
+            {
+              "src": "assets/1793085006099-0-fig_roll_1.png",
+              "alt": "fig roll 1"
+            },
+            {
+              "src": "assets/1793085006102-1-bourbon_1.png",
+              "alt": "bourbon 1"
+            },
+            {
+              "src": "assets/1793085006106-2-nice_1.png",
+              "alt": "nice 1"
+            },
+            {
+              "src": "assets/1793085006109-3-rich_tea_1.png",
+              "alt": "rich tea 1"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "Two Columns",
       "blocks": [
         {
@@ -156,38 +188,6 @@
           "type": "hero",
           "title": "I added a heading and was able to position it where I wanted",
           "sub": "I positioned it on the line underneath the three columns."
-        }
-      ]
-    },
-    {
-      "name": "Gallery",
-      "blocks": [
-        {
-          "type": "heading",
-          "text": "A gallery of images"
-        },
-        {
-          "type": "gallery",
-          "per": 4,
-          "ratio": "4/3",
-          "items": [
-            {
-              "src": "assets/1793085006099-0-fig_roll_1.png",
-              "alt": "fig roll 1"
-            },
-            {
-              "src": "assets/1793085006102-1-bourbon_1.png",
-              "alt": "bourbon 1"
-            },
-            {
-              "src": "assets/1793085006106-2-nice_1.png",
-              "alt": "nice 1"
-            },
-            {
-              "src": "assets/1793085006109-3-rich_tea_1.png",
-              "alt": "rich tea 1"
-            }
-          ]
         }
       ]
     },
