@@ -83,7 +83,8 @@
               {
                 "type": "image",
                 "src": "assets/1793000641311-garibaldi.png",
-                "alt": "garibaldi"
+                "alt": "garibaldi",
+                "w": 60
               }
             ]
           ]
