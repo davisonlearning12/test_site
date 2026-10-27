@@ -117,7 +117,12 @@
               {
                 "type": "image",
                 "src": "assets/1793000970993-Jammy.png",
-                "alt": "Jammy"
+                "alt": "Jammy",
+                "w": 65
+              },
+              {
+                "type": "text",
+                "html": "This is a biscuit."
               }
             ]
           ]
