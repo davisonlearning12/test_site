@@ -209,6 +209,10 @@
             ],
             [
               {
+                "type": "text",
+                "html": "This column is slightly bigger."
+              },
+              {
                 "type": "image",
                 "src": "assets/1793087286407-digestive.png",
                 "alt": "digestive",
@@ -229,6 +233,34 @@
             ]
           ],
           "split": "1:2:1"
+        },
+        {
+          "type": "text",
+          "html": "Or maybe you would like the following."
+        },
+        {
+          "type": "columns",
+          "cols": [
+            [
+              {
+                "type": "text",
+                "html": "This one is bigger.."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "html": "and this,"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "html": "and this are equal."
+              }
+            ]
+          ],
+          "split": "2:1:1"
         }
       ]
     }
