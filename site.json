@@ -235,6 +235,10 @@
           "split": "1:2:1"
         },
         {
+          "type": "divider",
+          "style": "line"
+        },
+        {
           "type": "text",
           "html": "Or maybe you would like the following."
         },
