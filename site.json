@@ -53,13 +53,28 @@
           "html": "I wanted to test adding an image..."
         },
         {
+          "type": "text",
+          "html": "A small image."
+        },
+        {
           "type": "image",
-          "src": "assets/1792911671598-fig_roll_1.png",
-          "alt": "fig roll 1"
+          "src": "assets/1793086416683-fig_roll_1.png",
+          "alt": "fig roll 1",
+          "w": 25
         },
         {
           "type": "text",
           "html": "Seems to work!"
+        },
+        {
+          "type": "text",
+          "html": "And a bigger one."
+        },
+        {
+          "type": "image",
+          "src": "assets/1793086513495-fig_roll_1.png",
+          "alt": "fig roll 1",
+          "w": 75
         }
       ]
     },
