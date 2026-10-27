@@ -22,6 +22,12 @@
           "type": "button",
           "label": "https://davisonlearning12.github.io/Sitewright/index.html",
           "url": "https://davisonlearning12.github.io/Sitewright/index.html"
+        },
+        {
+          "type": "image",
+          "src": "assets/1793084571304-nice_1.png",
+          "alt": "nice 1",
+          "w": 90
         }
       ]
     },
