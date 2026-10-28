@@ -246,6 +246,11 @@
       "name": "Different sized columns",
       "blocks": [
         {
+          "type": "hero",
+          "title": "Different sized columns",
+          "sub": "Add some variety to your pages, with different sized columns."
+        },
+        {
           "type": "columns",
           "cols": [
             [
