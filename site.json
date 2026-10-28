@@ -164,12 +164,12 @@
         },
         {
           "type": "text",
-          "html": "Add links and buttons to make navigation easy.<div>Links are highlighted like THIS, but if that's too subtle, why not add a button...</div>"
+          "html": "Add links and buttons to make navigation easy.<div>Links are highlighted like <a href=\"https://davisonlearning12.github.io/test_site/came-here.html\">THIS</a>, but if that's too subtle, why not add a button...</div>"
         },
         {
           "type": "button",
           "label": "Click me",
-          "url": "https://"
+          "url": "https://davisonlearning12.github.io/test_site/came-here.html"
         }
       ]
     },
@@ -332,6 +332,11 @@
           "type": "hero",
           "title": "Oh, you're here!",
           "sub": "Click the button to go back to \"links and buttons\""
+        },
+        {
+          "type": "button",
+          "label": "Click me",
+          "url": "https://davisonlearning12.github.io/test_site/links-and-buttons.html"
         }
       ]
     }
