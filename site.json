@@ -23,18 +23,8 @@
           "html": "The other pages on the site will show examples of what Sitewright can do"
         },
         {
-          "type": "divider",
-          "style": "line"
-        },
-        {
           "type": "text",
           "html": "What will be on your home page?"
-        },
-        {
-          "type": "image",
-          "src": "assets/1793084571304-nice_1.png",
-          "alt": "nice 1",
-          "w": 90
         }
       ]
     },
