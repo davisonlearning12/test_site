@@ -311,9 +311,9 @@
   ],
   "theme": "classic",
   "banner": {
+    "show": "home",
     "h": "m",
     "pos": "50%",
-    "show": "home",
-    "src": "assets/1793089906886-0-custard_cream.png"
+    "src": "assets/1793177348626-0-generated_text.png"
   }
 }
