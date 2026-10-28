@@ -7,8 +7,8 @@
       "blocks": [
         {
           "type": "hero",
-          "title": "Welcome",
-          "sub": "This is my test website made with Sitewright. "
+          "title": "Welcome.",
+          "sub": "This website was made with Sitewright. "
         },
         {
           "type": "text",
@@ -20,7 +20,7 @@
         },
         {
           "type": "text",
-          "html": "The other pages on the site will show examples of what Sitewright can do"
+          "html": "The other pages on the site will show examples of what Sitewright can do."
         },
         {
           "type": "text",
