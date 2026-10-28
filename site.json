@@ -51,12 +51,13 @@
       "name": "Images",
       "blocks": [
         {
-          "type": "text",
-          "html": "I wanted to test adding an image..."
+          "type": "hero",
+          "title": "Images.",
+          "sub": "Want to add images?"
         },
         {
           "type": "text",
-          "html": "A small image."
+          "html": "Great, click the image button in the left hand panel and choose an image file from your folders.<div><br></div><div>Images can be resized..</div><div><br></div><div>Small</div>"
         },
         {
           "type": "image",
@@ -70,7 +71,7 @@
         },
         {
           "type": "text",
-          "html": "And a bigger one."
+          "html": "And bigger."
         },
         {
           "type": "image",
