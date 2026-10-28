@@ -87,8 +87,9 @@
       "name": "Custom Html",
       "blocks": [
         {
-          "type": "html",
-          "code": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/QDia3e12czc?si=ard2iPdk1tyTvKa6\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; &autoplay=1\"frameborder=\"0\"; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+          "type": "embed",
+          "src": "https://www.youtube-nocookie.com/embed/2yJgwwDcgV8",
+          "ratio": "16/9"
         }
       ]
     },
