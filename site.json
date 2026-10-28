@@ -12,16 +12,23 @@
         },
         {
           "type": "text",
-          "html": "<a href=\"https://davisonlearning12.github.io/Sitewright/index.html\"><b>Sitewright</b></a> is a simple webpage creator that generates webpages to host on GitHub. Inspiration is from Google Sites, an easy to use website creator that hosts pages on google drive.&nbsp;<div><br></div><div>Why make something that does essentially the same thing? Well it is a good question! I suppose Google Sites pages are really locked to google drive, it's difficult to get the files and make them usable in other places. Sitewright makes simple HTML websites and all the files are saved in GitHub. The HTML files can be saved, edited, shared and moved around freely.&nbsp;&nbsp;</div><div>&nbsp;</div>"
+          "html": "<a href=\"https://davisonlearning12.github.io/Sitewright/index.html\"><b>Sitewright</b></a> is a free simple webpage creator that generates webpages to host on GitHub. Inspiration is from Google Sites, an easy to use website creator that hosts pages on google drive.&nbsp;<div><br></div><div>Sitewright works in a similar way to Google Sites, webpage creation is simple, no coding is required and site can be created in minutes. All your site files are stored in your own GitHub repository. <span><span style=\"color: rgb(198, 40, 40);\">SOUNDS LIKE HARD WORK!!!... </span></span>Not at all, take a look at the instructions page of a step by step walk through<div><br></div><div>Why make something that does essentially the same thing? Well it is a good question! I suppose Google Sites pages are really locked to google drive, it's difficult to view the HTML files and make them usable in other places. Sitewright makes simple HTML websites and all the files are saved in GitHub. The HTML files can be saved, edited, shared and moved around freely.&nbsp;&nbsp;</div><div>&nbsp;</div></div>"
+        },
+        {
+          "type": "divider",
+          "style": "line"
         },
         {
           "type": "text",
-          "html": "You can create link boxes. A link box to Sitewright is bellow..."
+          "html": "The other pages on the site will show examples of what Sitewright can do"
         },
         {
-          "type": "button",
-          "label": "https://davisonlearning12.github.io/Sitewright/index.html",
-          "url": "https://davisonlearning12.github.io/Sitewright/index.html"
+          "type": "divider",
+          "style": "line"
+        },
+        {
+          "type": "text",
+          "html": "What will be on your home page?"
         },
         {
           "type": "image",
