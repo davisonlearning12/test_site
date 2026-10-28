@@ -155,6 +155,25 @@
       ]
     },
     {
+      "name": "Links and buttons",
+      "blocks": [
+        {
+          "type": "hero",
+          "title": "Links and buttons",
+          "sub": "Instant transportation to someplace else."
+        },
+        {
+          "type": "text",
+          "html": "Add links and buttons to make navigation easy.<div>Links are highlighted like THIS, but if that's too subtle, why not add a button...</div>"
+        },
+        {
+          "type": "button",
+          "label": "Click me",
+          "url": "https://"
+        }
+      ]
+    },
+    {
       "name": "Two Columns",
       "blocks": [
         {
@@ -303,6 +322,16 @@
             ]
           ],
           "split": "2:1:1"
+        }
+      ]
+    },
+    {
+      "name": "Came here?",
+      "blocks": [
+        {
+          "type": "hero",
+          "title": "Oh, you're here!",
+          "sub": "Click the button to go back to where you came from."
         }
       ]
     }
