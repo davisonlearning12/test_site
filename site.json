@@ -156,7 +156,7 @@
         },
         {
           "type": "text",
-          "html": "What's your favourite biscuit?"
+          "html": "<div><br></div>What's your favourite biscuit?"
         }
       ]
     },
@@ -165,8 +165,8 @@
       "blocks": [
         {
           "type": "hero",
-          "title": "This is a two column page",
-          "sub": "How does it look?"
+          "title": "Want two columns on a page...",
+          "sub": "Easy, how does it look?"
         },
         {
           "type": "columns",
@@ -183,6 +183,11 @@
                 "src": "assets/1793000641311-garibaldi.png",
                 "alt": "garibaldi",
                 "w": 60
+              },
+              {
+                "type": "image",
+                "src": "assets/1793171600251-garibaldi.png",
+                "alt": "garibaldi"
               }
             ]
           ]
