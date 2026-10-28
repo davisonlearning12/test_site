@@ -53,7 +53,7 @@
         },
         {
           "type": "text",
-          "html": "<div><br></div><div><br></div>Great, click the image button in the editor panel and choose an image file from your folders.<div><br></div><div>Images can be resized..</div><div><br></div><div>Small</div>"
+          "html": "<div>Great, click the image button in the editor panel and choose an image file from your folders.</div><div><br></div><div>Images can be resized..</div><div><br></div><div>Small</div>"
         },
         {
           "type": "image",
