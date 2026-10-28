@@ -198,14 +198,13 @@
       "name": "Three Columns",
       "blocks": [
         {
+          "type": "hero",
+          "title": "Three columns!",
+          "sub": "Okay, Okay, you got it..."
+        },
+        {
           "type": "columns",
           "cols": [
-            [
-              {
-                "type": "text",
-                "html": "This page has heading image and text."
-              }
-            ],
             [
               {
                 "type": "heading",
@@ -213,7 +212,13 @@
               },
               {
                 "type": "text",
-                "html": "It has a heading, text and an image.<div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div>hshsh</div>"
+                "html": "Just imagine the possibilities for your site!"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "html": "I placed a heading left, text centre, and an image left."
               }
             ],
             [
@@ -226,14 +231,14 @@
               {
                 "type": "text",
                 "html": "This is a biscuit."
+              },
+              {
+                "type": "image",
+                "src": "assets/1793171746109-Jammy.png",
+                "alt": "Jammy"
               }
             ]
           ]
-        },
-        {
-          "type": "hero",
-          "title": "I added a heading and was able to position it where I wanted",
-          "sub": "I positioned it on the line underneath the three columns."
         }
       ]
     },
