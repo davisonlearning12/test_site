@@ -62,10 +62,6 @@
           "w": 25
         },
         {
-          "type": "text",
-          "html": "Seems to work!"
-        },
-        {
           "type": "divider",
           "style": "line"
         },
@@ -91,7 +87,7 @@
         },
         {
           "type": "text",
-          "html": "<div><br></div>The editor lets you upload files and add embedded videos and links.<div><br></div><div>I added a PDF file and a YouTube video below.</div>"
+          "html": "<div>The editor lets you upload files and add embedded videos and links.</div><div><br></div><div>I added a PDF file and a YouTube video below.</div>"
         },
         {
           "type": "file",
@@ -156,7 +152,7 @@
         },
         {
           "type": "text",
-          "html": "<div><br></div>What's your favourite biscuit?"
+          "html": "<div>What's your favourite biscuit?</div>"
         }
       ]
     },
