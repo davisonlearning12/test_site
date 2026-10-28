@@ -57,7 +57,7 @@
         },
         {
           "type": "text",
-          "html": "<div><br></div><div><br></div>Great, click the image button in the left hand panel of the editor and choose an image file from your folders.<div><br></div><div>Images can be resized..</div><div><br></div><div>Small</div>"
+          "html": "<div><br></div><div><br></div>Great, click the image button in the editor panel and choose an image file from your folders.<div><br></div><div>Images can be resized..</div><div><br></div><div>Small</div>"
         },
         {
           "type": "image",
@@ -111,8 +111,9 @@
       "name": "Gallery",
       "blocks": [
         {
-          "type": "heading",
-          "text": "A gallery of images"
+          "type": "hero",
+          "title": "Gallery",
+          "sub": "A gallery of images? Not a problem..."
         },
         {
           "type": "gallery",
@@ -134,8 +135,28 @@
             {
               "src": "assets/1793085006109-3-rich_tea_1.png",
               "alt": "rich tea 1"
+            },
+            {
+              "src": "assets/1793171427012-0-party_ring.png",
+              "alt": "party ring"
+            },
+            {
+              "src": "assets/1793171427018-1-shortbread.png",
+              "alt": "shortbread"
+            },
+            {
+              "src": "assets/1793171427024-2-digestive.png",
+              "alt": "digestive"
+            },
+            {
+              "src": "assets/1793171427029-3-Jammy.png",
+              "alt": "Jammy"
             }
           ]
+        },
+        {
+          "type": "text",
+          "html": "What's your favourite biscuit?"
         }
       ]
     },
