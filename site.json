@@ -1,5 +1,5 @@
 {
-  "title": "This is a test site.",
+  "title": "Sitewright.",
   "accent": "#1f4fd8",
   "pages": [
     {
@@ -82,19 +82,28 @@
       ]
     },
     {
-      "name": "Custom Html",
+      "name": "Files and embeds",
       "blocks": [
         {
-          "type": "embed",
-          "src": "https://www.youtube-nocookie.com/embed/2yJgwwDcgV8",
-          "ratio": "16/9"
+          "type": "hero",
+          "title": "Files and embeds",
+          "sub": "Want to add external content?"
+        },
+        {
+          "type": "text",
+          "html": "<div><br></div>The editor lets you upload files and add embedded videos and links.<div><br></div><div>I added a PDF file and a YouTube video below.</div>"
         },
         {
           "type": "file",
           "src": "files/1793168882874-sample.pdf",
           "fn": "sample.pdf",
-          "name": "sample",
+          "name": "sample PDF",
           "size": 51092
+        },
+        {
+          "type": "embed",
+          "src": "https://www.youtube-nocookie.com/embed/2yJgwwDcgV8",
+          "ratio": "16/9"
         }
       ]
     },
