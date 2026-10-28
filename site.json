@@ -53,7 +53,7 @@
         },
         {
           "type": "text",
-          "html": "<div>Great, click the image button in the editor panel and choose an image file from your folders.</div><div><br></div><div>Images can be resized..</div><div><br></div><div>Small</div>"
+          "html": "<div>Great! Images are easy to add, chosen from files stores in you folder and then can be resized in Sitewright.</div><div><br></div><div>Here is a small Fig Roll.</div>"
         },
         {
           "type": "image",
@@ -66,8 +66,12 @@
           "html": "Seems to work!"
         },
         {
+          "type": "divider",
+          "style": "line"
+        },
+        {
           "type": "text",
-          "html": "And bigger."
+          "html": "And a bigger Fig Roll."
         },
         {
           "type": "image",
