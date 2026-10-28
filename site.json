@@ -180,12 +180,6 @@
             [
               {
                 "type": "image",
-                "src": "assets/1793000641311-garibaldi.png",
-                "alt": "garibaldi",
-                "w": 60
-              },
-              {
-                "type": "image",
                 "src": "assets/1793171600251-garibaldi.png",
                 "alt": "garibaldi"
               }
@@ -222,12 +216,6 @@
               }
             ],
             [
-              {
-                "type": "image",
-                "src": "assets/1793000970993-Jammy.png",
-                "alt": "Jammy",
-                "w": 65
-              },
               {
                 "type": "text",
                 "html": "This is a biscuit."
