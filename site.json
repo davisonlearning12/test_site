@@ -30,7 +30,7 @@
         {
           "type": "hero",
           "title": "Instructions",
-          "sub": "A quick guide."
+          "sub": "A setup guide."
         },
         {
           "type": "text",
@@ -38,9 +38,7 @@
         }
       ],
       "bn": {
-        "h": "m",
-        "pos": "50%",
-        "src": "assets/1793090391099-0-chocolate_hobnob_1.png"
+        "off": true
       }
     },
     {
@@ -312,7 +310,7 @@
   "theme": "classic",
   "banner": {
     "show": "home",
-    "h": "m",
+    "h": "l",
     "pos": "50%",
     "src": "assets/1793177492557-0-generated_text__1_.png"
   }
