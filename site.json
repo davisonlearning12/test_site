@@ -169,7 +169,7 @@
         {
           "type": "button",
           "label": "Click me to go someplace else.",
-          "url": "https://davisonlearning12.github.io/test_site/came-here.html"
+          "url": "came-here.html"
         }
       ]
     },
